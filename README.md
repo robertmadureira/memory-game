@@ -1,4 +1,4 @@
-### memory-game
+### Memory Game
 
 1. Which is? it's a memory game.
 2. Goal? this project was developed to train skills with HTML, CSS and JavaScript.
